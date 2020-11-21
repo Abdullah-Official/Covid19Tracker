@@ -1,0 +1,11 @@
+.containerChart{
+    display: flex;
+    justify-content: center;
+    width: 80% !important;
+}
+
+@media(max-width: 770px){
+   .containerChart{
+       width: 100% !important;
+   }
+}
